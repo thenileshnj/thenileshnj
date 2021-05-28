@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nilesh Nj
 #### I am A Full Stack Developer 
-![I am A Full Stack Developer ](https://github.com/thenileshnj/thenileshnj/blob/main/nilesh.jpg)
+![I am A Full Stack Developer ](https://github.com/thenileshnj/thenileshnj/blob/main/nilesh.png)
 
 I made this project just for fun.
 
