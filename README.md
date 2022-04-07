@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 Checkout my Portfolio page [https://thenileshnj.github.io/portfolio/](https://thenileshnj.github.io/portfolio/)
+
 - 📫 How to reach me **nileshbjadhawar@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1-Fyg02AkJZwdvpqfHcnopdSFl8b54qdXABmwVSxE0P4/edit?usp=sharing](https://docs.google.com/document/d/1-Fyg02AkJZwdvpqfHcnopdSFl8b54qdXABmwVSxE0P4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
